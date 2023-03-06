@@ -1,2 +1,2 @@
 # bloomberg-metadata
-Metadata on select articles published by Bloomberg.
+Bloomberg news articles metadata in comma-separated values, CSV.
